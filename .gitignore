@@ -1,7 +1,5 @@
 .vscode
 
-dist
-build
 data
 
 */__pycache__
